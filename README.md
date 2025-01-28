@@ -2,7 +2,7 @@
 
 I am a Developer that graduated from University of North Carolina at Charlotte with my B.S. in Computer Science with my concentration Data Science.
 
-![ElisefRaz17's Stats](https://github-readme-stats.vercel.app/api?ElisefRaz17=ElisefRaz17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ElisefRaz17's Stats](https://github-readme-stats.vercel.app/api?username=ElisefRaz17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
