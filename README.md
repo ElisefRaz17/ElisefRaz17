@@ -26,6 +26,8 @@ I am a Developer that graduated from University of North Carolina at Charlotte w
 
 - 🚀 Improving Full Stack Web Development
   - Developing a MVP for a social media application using a MongoDB, React, and Vercel for development and production of the application.
+- ⚙️ Integrating Assesible Frontend
+  - Currently creating improved UI for AI and legacy backend structures.  
 
 
 
