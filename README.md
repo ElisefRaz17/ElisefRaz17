@@ -1,12 +1,11 @@
 # Hi, I'm Elise! 👋
 
-I am a Developer that graduated from University of North Carolina at Charlotte with my B.S. in Computer Science with my concentration Data Science.
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisefRaz17&theme=synthwave&hide_progress=true)
 
 ## 🚀 About Me
 
 - 🔭 I'm currently a Developer at TIAA.
+- 🎓I graduated from University of North Carolina at Charlotte with my B.S. in Computer Science with my concentration Data Science.
 - 🤝 Volunteers a Mentor to upcoming computer science students and aspiring STEM enthusiasts.
 
 ## My Links
