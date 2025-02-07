@@ -6,7 +6,7 @@ I am a Developer that graduated from University of North Carolina at Charlotte w
 
 ## 🚀 About Me
 
-- 🔭 I'm currently a Frontend Developer at TIAA.
+- 🔭 I'm currently a Developer at TIAA.
 - 🤝 Volunteers a Mentor to upcoming computer science students and aspiring STEM enthusiasts.
 
 ## My Links
