@@ -9,12 +9,13 @@
 - 🤝 Volunteers a Mentor to upcoming computer science students and aspiring STEM enthusiasts.
 
 ## My Links
-- 📝 My Portfolio: [personal-portfolio](https://personal-portfolio-8vos.vercel.app/)
+- 📝 My Portfolio: [personal-portfolio]([https://personal-portfolio-8vos.vercel.app/])
 - 💻 LinkedIn: [LinkedIn](https://www.linkedin.com/in/elise-frazier-89b356180/)
 
 
 ## Tech Stack
 - 💫 React
+- 💫 React Native
 - 💫 Java
 - 💫 Next.js
 - 💫 Python
@@ -25,8 +26,10 @@
 
 - 🚀 Improving Full Stack Web Development
   - Developing a MVP for a social media application using a MongoDB, React, and Vercel for development and production of the application.
-- ⚙️ Integrating Assesible Frontend
-  - Currently creating improved UI for AI and legacy backend structures.  
+- ⚙️ Integrating Accesible Frontend
+  - Currently creating improved UI for AI and legacy backend structures.
+- Developing Backend Knowledge for Golang.
+- Earning my AWS Solutions Architect and Developer certifications  
 
 
 
