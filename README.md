@@ -9,7 +9,7 @@
 - 🤝 Volunteers a Mentor to upcoming computer science students and aspiring STEM enthusiasts.
 
 ## My Links
-- 📝 My Portfolio: [personal-portfolio]([https://personal-portfolio-8vos.vercel.app/])
+- 📝 My Portfolio: [personal-portfolio](https://personal-portfolio-8vos.vercel.app/)
 - 💻 LinkedIn: [LinkedIn](https://www.linkedin.com/in/elise-frazier-89b356180/)
 
 
