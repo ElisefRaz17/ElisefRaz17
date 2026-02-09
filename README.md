@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently a Developer at TIAA.
+- 🔭 I'm currently a Software Engineer Consultant at CapTech.
 - 🎓I graduated from University of North Carolina at Charlotte with my B.S. in Computer Science with my concentration Data Science.
 - 🤝 Volunteers a Mentor to upcoming computer science students and aspiring STEM enthusiasts.
 
